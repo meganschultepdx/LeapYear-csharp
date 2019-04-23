@@ -1,0 +1,14 @@
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.deps.json
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.json
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.dev.json
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.pdb
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfo.cs
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/meganschulte/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.pdb
